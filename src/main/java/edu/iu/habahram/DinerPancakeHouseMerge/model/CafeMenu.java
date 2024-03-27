@@ -1,9 +1,5 @@
 package edu.iu.habahram.DinerPancakeHouseMerge.model;
 
-import edu.iu.habahram.DinerPancakeHouseMerge.repository.PancakeHouseRepository;
-
-import javax.swing.*;
-import javax.swing.text.html.HTMLDocument;
 import java.util.HashMap;
 import java.util.Iterator;
 import java.util.Map;
